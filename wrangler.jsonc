@@ -16,7 +16,7 @@
     ],
     "secrets_store_secrets": [
         {
-            "store_id": "<YOUR-STORE-ID>",
+            "store_id": "43643609496349a387f7746c528fd45a",
             "binding": "SECRET",
             "secret_name": "<YOUR-SECRET-NAME>"
         }
